@@ -9,4 +9,4 @@ The project also aims at building a model of housing prices to predict median ho
 * Mudit Bhandari ([@mudit2000](https://github.com/mudit2000))
 
 # SPECIES
-<p><img src='species.PNG'>
+<p><img src='image.PNG'>
